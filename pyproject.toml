@@ -1,0 +1,20 @@
+[project]
+name = "ai-sticky-notes-mcp"
+version = "0.1.0"
+description = "an mcp server for managing persistent sticky notes with ai assistants"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastmcp>=2.10.5",
+    "mcp[cli]>=1.11.0",
+]
+authors = [
+    {name = "user"}
+]
+keywords = ["mcp", "notes", "ai", "claude", "sticky-notes"]
+classifiers = [
+    "development status :: 3 - alpha",
+    "intended audience :: developers",
+    "programming language :: python :: 3",
+    "programming language :: python :: 3.12",
+]
