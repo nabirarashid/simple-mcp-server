@@ -91,5 +91,3 @@ notes are stored in a simple text file (`notes.txt`) in the project directory. e
 ## about mcp
 
 the model context protocol (mcp) allows ai assistants like claude to connect to external tools and data sources. this server demonstrates how to create persistent storage capabilities that claude can use across conversations.
-
-for more information about mcp, visit: https://modelcontextprotocol.io
